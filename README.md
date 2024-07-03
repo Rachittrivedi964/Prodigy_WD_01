@@ -29,6 +29,10 @@
 ## Usage
 Feel free to use this project as a template for your own landing pages. You can modify the HTML, CSS, and JavaScript files to suit your needs.
 
+## Video:
+(https://github.com/Rachittrivedi964/Prodigy_WD_01/assets/153116964/f6e83247-a5ae-4652-a4d5-7335ab25ad89)
+
+
 ## **Contributing**
 
 If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
