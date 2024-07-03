@@ -14,8 +14,6 @@
 - **CSS**: For styling the web page.
 - **JavaScript**: For adding interactivity to the navigation menu.
 
-## Demo
-  You can see a live demo of the project [here](file:///C:/Users/HP/Desktop/Prodigy%20Task/Task_1_Landing%20Page/PRODIGY_WD_01/index.html)
 
 ## Getting started
   To get a local copy up and running, follow these simple steps.
