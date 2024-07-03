@@ -30,7 +30,8 @@
 Feel free to use this project as a template for your own landing pages. You can modify the HTML, CSS, and JavaScript files to suit your needs.
 
 ## Video:
-(https://github.com/Rachittrivedi964/Prodigy_WD_01/assets/153116964/f6e83247-a5ae-4652-a4d5-7335ab25ad89)
+![Plant-X - Google Chrome 2024-07-03 19-37-30](https://github.com/Rachittrivedi964/Prodigy_WD_01/assets/153116964/d85c2aa1-26f2-464d-8f28-48058c7b157b)
+
 
 
 ## **Contributing**
